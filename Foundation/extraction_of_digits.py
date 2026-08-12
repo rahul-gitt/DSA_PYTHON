@@ -18,5 +18,5 @@ while num > 0:
     then loop break
 
 Time complexity = O(n)
-
+Space complexity = 0(1)
 '''
