@@ -23,6 +23,7 @@ while num > 0 :
     and it automatically increase the count value 
     then loop break
 
-Time Complexity = O()
+Time Complexity = O(n)
+Space Complexity = O(1)
 
 '''
