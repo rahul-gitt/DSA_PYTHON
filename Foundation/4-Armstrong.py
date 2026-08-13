@@ -15,3 +15,9 @@ if n == result:
     print(f"The number {n} is Armstrong number.")
 else:
     print(f"The number {n} is not a Armstrong number.")
+
+
+'''
+Time Complexity = O(log₁₀(n))
+Space Complexity = O(1)
+'''
