@@ -30,5 +30,6 @@ it repeat's until num becames 0 then the loop break             -> 1 * 10 + 2 = 
                                                                 -> 1 
 and follows the condition part.
 
-TC = 
+TC = O(log₁₀(n))
+SC = O(1)
 '''
